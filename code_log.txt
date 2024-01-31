@@ -1,0 +1,19 @@
+2024-Jan-31-22:33:25,Starting ETL Process
+2024-Jan-31-22:33:25,Starting Extract process from website
+2024-Jan-31-22:33:28,Extraction from website has ended
+2024-Jan-31-22:33:28,Starting transformation, converting data and adding as columns
+2024-Jan-31-22:34:13,Starting ETL Process
+2024-Jan-31-22:34:13,Starting Extract process from website
+2024-Jan-31-22:34:14,Extraction from website has ended
+2024-Jan-31-22:34:14,Starting transformation, converting data and adding as columns
+2024-Jan-31-22:34:14,Transformation has ended
+2024-Jan-31-22:34:14,Starting Load to CSV file
+2024-Jan-31-22:34:14,Loading has ended
+2024-Jan-31-22:34:14,Start connecting to database
+2024-Jan-31-22:34:14,Starting load to database
+2024-Jan-31-22:34:14,Loading to database ended
+2024-Jan-31-22:34:14,Running quieries on database
+2024-Jan-31-22:34:14,Running quieries on database has ended
+2024-Jan-31-22:34:14,Closing database connection
+2024-Jan-31-22:34:14,Connection to database is closed
+2024-Jan-31-22:34:14,ETL process has ended
